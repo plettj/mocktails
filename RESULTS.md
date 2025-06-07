@@ -1,32 +1,27 @@
 # Results
 
-### Overall Comparisons
+## Overall Comparison
 
 ![Bar Graph](./bar_graph.png)
 
-### Most Polarizing Dish (by metric)
+## Most Polarizing Dish (by metric)
 
-**Texture:** Mushroom Stew
+- **Texture:** Mushroom Stew
+- **Flavour:** Egg Tomato Stir Fry
+- **Presentation:** Egg Tomato Stir Fry
+- **Overall Score:** Egg Tomato Stir Fry
 
-**Flavour:** Egg Tomato Stir Fry
-
-**Presentation:** Egg Tomato Stir Fry
-
-**Overall Score:** Egg Tomato Stir Fry
-
-### Who cooked this?
+## Who cooked this?
 
 Guess accuracy by dish:
 
-**Egg Tomato Stir Fry:** 43.8% correct
+1. **Gourmet Quesadillas:** 93.8% correct
+2. **Mushroom Stew:** 50.0% correct
+3. **Egg Tomato Stir Fry:** 43.8% correct
 
-**Mushroom Stew:** 50.0% correct
+## Comments
 
-**Gourmet Quesadillas:** 93.8% correct
-
-### Comments
-
-Gourmet Quesadillas comments:
+##### Gourmet Quesadillas
 
 - yummy
 - I was hungry
@@ -42,7 +37,7 @@ Gourmet Quesadillas comments:
 - !!!! <3 <3 <3
 - cheese :) taco
 
-Mushroom Stew comments:
+##### Mushroom Stew
 
 - mushrooms :(
 - Surprisingly tasty for me not liking mushrooms
@@ -58,7 +53,7 @@ Mushroom Stew comments:
 - I don't like mushrooms so take that into consideration
 - soup :( weeee
 
-Egg Tomato Stir Fry comments:
+##### Egg Tomato Stir Fry
 
 - rice :)
 - Just rice, kinda disappointing
