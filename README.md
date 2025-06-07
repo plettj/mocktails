@@ -2,6 +2,8 @@
 
 This repo holds analysis of votes on the three dishes that made up Apartment 3503's Cookoff.
 
+See the [Results](/RESULTS.md) file for a summary of the data.
+
 ### What is Mocktails?
 
 Each term at Conrad Grebel University College, upper-year students in the apartments host a Mocktails event where they serve non-alcoholic drinks to all the younger-years living in the Conrad Grebel residence.
