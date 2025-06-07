@@ -26,4 +26,4 @@ This repo holds analysis of that vote.
 
 ---
 
-\_#dataisbeautiful
+\#dataisbeautiful

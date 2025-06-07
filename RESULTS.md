@@ -7,8 +7,11 @@
 ### Most Polarizing Dish (by metric)
 
 **Texture:** Mushroom Stew
+
 **Flavour:** Egg Tomato Stir Fry
+
 **Presentation:** Egg Tomato Stir Fry
+
 **Overall Score:** Egg Tomato Stir Fry
 
 ### Who cooked this?
@@ -16,7 +19,9 @@
 Guess accuracy by dish:
 
 **Egg Tomato Stir Fry:** 43.8% correct
+
 **Mushroom Stew:** 50.0% correct
+
 **Gourmet Quesadillas:** 93.8% correct
 
 ### Comments
