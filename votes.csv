@@ -1,0 +1,29 @@
+texture1,texture2,texture3,flavour1,flavour2,flavour3,presentation1,presentation2,presentation3,overall1,overall2,overall3,who1,who2,who3,notes1,notes2,notes3,num_people
+5,0,5,5,5,5,5,3,3,5,3,4,j,m,p,,,,1
+5,3,5,4.5,5,4,3.5,4,2,4.7,4,5,j,p,m,"yummy","mushrooms :(","rice :)",4
+5,3,4,5,4,4,5,3,4,5,4,4,j,p,m,"I was hungry",,,1
+5,3,2,5,4,1,5,5,1,5,2,2,j,m,p,"SO GOOD","Surprisingly tasty for me not liking mushrooms","Just rice, kinda disappointing",1
+5,,5,5,,5,5,,3,5,,5,j,p,m,":)","I don't like mushrooms :(",":)",1
+3,2,3,5,5,3,5,3,3,4,3,3,j,m,p,"Thank you I missed dinner!","It's not your fault I don't like mushrooms","it's rice.",1
+3,2.5,4,5,5,3,5,4,3,4.5,4.25,3.5,j,m,p,,,,3
+4,2,4,4,5,3,5,4,3,4,4,4,j,m,p,"y","n","m",1
+5,5,4,5,4,5,4,4,3,4,4,3,j,m,p,,,,1
+5,4,3,5,4,4,4,4,5,4,4,4,m,p,j,,,,1
+5,5,5,5,5,5,5,5,5,5,5,5,j,m,p,"Amazing!! Everyone killed it! Katherine","Amazing!! Everyone killed it! Katherine","Amazing!! Everyone killed it! Katherine",1
+5,5,5,5,1,5,5,5,5,5,5,5,j,m,p,,,,1
+4,5,4,5,5,4,4,3,5,5,5,5,j,m,p,,,,1
+5,5,5,5,5,5,5,5,5,5,5,5,j,p,p,"perfect no notes","perfect no notes","perfect no notes",1
+5,4,4,5,3,3,5,5,5,5,5,5,j,p,m,,,,1
+5,3,5,5,5,5,5,5,5,5,5,5,j,m,p,,"I don't like mushrooms",,1
+5,5,4,3,5,4,5,4,0,3,5,2,j,m,p,"spicy","mushrooms auto win","hard to eat",1
+5,4,4,5,5,5,5,5,4,5,4.5,4.5,j,p,m,"Love the spice",,,1
+5,5,5,5,5,5,5,5,4,5,5,3,m,j,p,,,,1
+5,5,4,4,5,4,5,4,3,4,5,4,j,p,m,,,,1
+4.5,,3,5,,3,4,,2,4.5,,2.5,j,p,m,,"boo stews",,1
+5,5,5,5,4,5,5,4,5,5,5,5,j,p,m,,,,1
+3,2,3,5,2,2,5,1,3,4,3,2.5,j,p,m,"chicken slightly dry but at least u know it is cooked","Flavor was off.","Too big tomato pieces",1
+4,4,3,5,4,4,5,4,4,4,4,4,j,p,m,,,,1
+3,4,4,4,4,3,5,3,3,4,3.8,3.5,j,m,p,,,,1
+4,3,4,5,4,5,4,3,2,5,4,4,j,m,p,"!!!! <3 <3 <3","I don't like mushrooms so take that into consideration",,1
+4,0,3,4,3,3,5,0,5,4,1,3,j,p,m,"cheese :) taco","soup :( weeee","No like tomato >:( blehhh",1
+
